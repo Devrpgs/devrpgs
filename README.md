@@ -52,10 +52,10 @@
 
 ### 📊 Atividade no GitHub
 
-<p align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=devrpgs&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=devrpgs&theme=tokyonight" alt="GitHub Streak" />
-</p>
+</div>
 
 
 
