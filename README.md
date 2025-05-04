@@ -52,9 +52,9 @@
 
 ### 📊 Atividade no GitHub
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=devrpgs&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=devrpgs&theme=tokyonight" alt="GitHub Streak" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devrpgs&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=devrpgs&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 
