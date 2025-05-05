@@ -53,8 +53,8 @@
 ### 📊 Atividade no GitHub
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devrpgs&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img height="150em" src="https://streak-stats.demolab.com/?user=devrpgs&theme=github_dark" alt="GitHub Streak" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devrpgs&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <img height="150em" src="https://streak-stats.demolab.com/?user=devrpgs&theme=transparent" alt="GitHub Streak" />
 </div>
 
 
